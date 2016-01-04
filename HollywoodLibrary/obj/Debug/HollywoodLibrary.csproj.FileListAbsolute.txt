@@ -1,0 +1,48 @@
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood.mdf
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood_log.ldf
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.pdb
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.dll
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.pdb
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll.config
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.csprojResolveAssemblyReference.cache
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood.mdf
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood_log.ldf
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll.config
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.pdb
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.csprojResolveAssemblyReference.cache
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.dll
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.pdb
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood.mdf
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood_log.ldf
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll.config
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.pdb
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.csprojResolveAssemblyReference.cache
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.dll
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.pdb
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood.mdf
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood_log.ldf
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll.config
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.pdb
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.csprojResolveAssemblyReference.cache
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.dll
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.pdb
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood.mdf
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood_log.ldf
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll.config
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.pdb
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.csprojResolveAssemblyReference.cache
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.dll
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.pdb
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood.mdf
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\Hollywood_log.ldf
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll.config
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.dll
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\bin\Debug\HollywoodLibrary.pdb
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.csprojResolveAssemblyReference.cache
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.dll
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\HollywoodLibrary\obj\Debug\HollywoodLibrary.pdb

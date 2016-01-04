@@ -1,0 +1,102 @@
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csprojResolveAssemblyReference.cache
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmActors.resources
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmAddMovie.resources
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmBestPictures.resources
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmMovies.resources
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.MDIParent.resources
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.Properties.Resources.resources
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csproj.GenerateResource.Cache
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe.config
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\Hollywood.mdf
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\Hollywood_log.ldf
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.pdb
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.dll
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.pdb
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.exe
+K:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.pdb
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\Hollywood.mdf
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\Hollywood_log.ldf
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe.config
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.pdb
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.dll
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.pdb
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csprojResolveAssemblyReference.cache
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmActors.resources
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmAddMovie.resources
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmBestPictures.resources
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmMovies.resources
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.MDIParent.resources
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.Properties.Resources.resources
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csproj.GenerateResource.Cache
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.exe
+E:\CIS5606 Fall14\Week10\SF\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.pdb
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe.config
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.exe
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.pdb
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood.mdf
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood_log.ldf
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.pdb
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.dll
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.pdb
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csprojResolveAssemblyReference.cache
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmActors.resources
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmAddMovie.resources
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmBestPictures.resources
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmMovies.resources
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.MDIParent.resources
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.Properties.Resources.resources
+K:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csproj.GenerateResource.Cache
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe.config
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.exe
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.pdb
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood.mdf
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood_log.ldf
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.pdb
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.dll
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.pdb
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csprojResolveAssemblyReference.cache
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmActors.resources
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmAddMovie.resources
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmBestPictures.resources
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmMovies.resources
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.MDIParent.resources
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.Properties.Resources.resources
+E:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csproj.GenerateResource.Cache
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe.config
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.exe
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.pdb
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood.mdf
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood_log.ldf
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.pdb
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.dll
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.pdb
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csprojResolveAssemblyReference.cache
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmActors.resources
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmAddMovie.resources
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmBestPictures.resources
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmMovies.resources
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.MDIParent.resources
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.Properties.Resources.resources
+F:\CIS5606 Fall14\Week10\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csproj.GenerateResource.Cache
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe.config
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.exe
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.pdb
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood.mdf
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\Hollywood_log.ldf
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.exe
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\MoviesProject.pdb
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.dll
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\bin\Debug\HollywoodLibrary.pdb
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csprojResolveAssemblyReference.cache
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmActors.resources
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmAddMovie.resources
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmBestPictures.resources
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.frmMovies.resources
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.MDIParent.resources
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.Properties.Resources.resources
+E:\5606_Fall15\Chapter32\Chapter 32\Examples\HollywoodApplication\MoviesProject\obj\Debug\MoviesProject.csproj.GenerateResource.Cache
